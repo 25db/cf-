@@ -19,4 +19,3 @@ cloudflare-dl.byoip.top
 cf.tencentapp.cn
 staticdelivery.nexusmods.com
 store.ubi.com
-aliyun.2096.us.kg
